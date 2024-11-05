@@ -22,4 +22,4 @@ This script scrapes hotel reviews from TripAdvisor, analyzes them, and builds a 
 ## Installation
 1. Install the necessary packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements (2).txt
